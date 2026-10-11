@@ -1,11 +1,11 @@
 {
   "server": {
-    "host": "ip_of_your_smp_server", 
-    "port": 42422,
+    "host": "dudhsmp.progamer.me", 
+    "port": 28180,
     "version": "1.21.4"
   },
   "bot": {
-    "username": "aurora_assistant",
+    "username": "Its.mayank",
     "auth": "offline",
     "password": ""
   },
